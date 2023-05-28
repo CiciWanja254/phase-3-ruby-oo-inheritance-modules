@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
-require_relative "../lib/kid"
-require_relative "../lib/dancer"
+require_relative '../lib/kid'
+require_relative '../lib/dancer'
 
 puts Kid.metadata
 puts Dancer.metadata
